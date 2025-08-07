@@ -43,3 +43,5 @@ function pasta( sauce ,spice ,cheese){
 }
 const result = pasta('cream', 'pepper' , 'parmesan')
 console.log(result);
+
+// i was scared
