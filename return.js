@@ -67,3 +67,8 @@
 
 // console.log(isEven(7));
 // console.log(isEven(10));
+
+function getMenu() {
+  console.log("Burger, Pizza, Pasta");
+}
+getMenu();
