@@ -5,3 +5,5 @@
 const number = [20,40,1,12,300,400]
 const sorted = number.sort(function(a,b) {return a -b})
 console.log(sorted);
+
+// another comment
